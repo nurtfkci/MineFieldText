@@ -1,5 +1,4 @@
-#MineField
-##Text-Based MineField Game
+# Text-Based MineField Game
 
 The Minefield Game is a text-based Java game where players navigate through a grid to uncover safe coordinates while avoiding mines. <br>
 The game allows players to choose the dimensions of the grid and provides feedback on the number of mines surrounding each cell. 
